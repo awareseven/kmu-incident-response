@@ -8,10 +8,10 @@ Schreiben Sie eine E-Mail an incident@franken-logistik.de. Dies wird die Verantw
 # Kritikalität des Vorfalls
 Das erste was Sie als Verantwortlicher tun müssen, ist die Kritikalität des Vorfalls zu bestimmen. Ist es nötig die Geschäftsführung zu benachrichtigen, da der Vorfall kritisch ist? Müssen Sie schnell handeln und auch mitten in der Nacht tätig werden oder sollte der Vorfall zwar untersucht werden aber Sie müssen niemanden wecken? Insbesondere Vorfälle mit hoher Kritikalität sollten erst behandelt werden, wenn klar ist, dass der Vorfall legitim ist. Wenn Sie jedem unbestätigten Indiz nachgehen, schlafen Sie vermutlich nur noch selten.
 
-```
-Niedrige oder Mittlere Kritikalität
-Verdächtiges Verhalten gehört klassischerweise zu diesen Vorfällen.  Es gibt keine eindeutigen Beweise für die Beeinträchtigung eines IT-Systems oder von anderen Unternehmensassets. Verdächtige E-Mails gehören beispielsweise dazu. Tritt ein solches Ereignis auf sollte der Verantwortliche das ganze untersuchen
-```
+
+## Niedrige oder Mittlere Kritikalität
+> Verdächtiges Verhalten gehört klassischerweise zu diesen Vorfällen.  Es gibt keine eindeutigen Beweise für die Beeinträchtigung eines IT-Systems oder von anderen Unternehmensassets. Verdächtige E-Mails gehören beispielsweise dazu. Tritt ein solches Ereignis auf sollte der Verantwortliche das ganze untersuchen
+
 
 ```
 Hohe Kritikalität
