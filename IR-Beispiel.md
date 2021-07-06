@@ -39,6 +39,9 @@ In dieser Tabelle sammeln Sie alle Informationen, die Sie zur Hand haben müssen
 | Frauke Handsz | 00000      |    Personalabteilung |
 
 
+# Dokumentation aktuell und bereit halten
+Im Falle eines Vorfalls sollten Sie relevante Dokumentationen zur Hand haben beziehungsweise innerhalb kürzester Zeit sammeln können, um einen Überblick zu haben und dem Angreifer einen Schritt voraus zu sein. Wichtige Dokumentation ist beispielsweise eine aktuelle Liste aller IT-Systeme oder ein Netzplan.
+
 # Schritte zur Antwort
 Richten Sie ein regelmäßiges Meeting des Krisenstabs ein. Je nach Kritikalität täglich. Damit Sie nicht alleine dastehen und Sie alle Zügel in der Hand halten, ist es sinnvoll vorher bereits feste Rollen zuzuschreiben. Wer ist Zuständig für die Kommunikation im Rahmen des Breaches? Wer sammelt beweise? Wer kommuniziert mit Kunden und Partnern oder den Medien?
 
